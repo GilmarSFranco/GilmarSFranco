@@ -14,4 +14,4 @@
 <img align="center" alt="JQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div><br/>
 
-Técnico em Análise e Desenvolvimento de Sistemas pela ETEC REGISTRO e, no momento, cursando Desenvolvimento de Software Multiplataforma pela FATEC(Registro).
+Técnico em Análise e Desenvolvimento de Sistemas pela ETEC REGISTRO e, no momento, cursando Desenvolvimento de Software Multiplataforma pela FATEC.
